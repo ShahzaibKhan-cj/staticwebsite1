@@ -1,0 +1,26 @@
+.nav-container{
+background-color: blueviolet;
+position: sticky;
+min-height: 9vh;
+}
+
+.navbar-brand{
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}
+
+
+.navbar-nav a.active{
+border-bottom: 1px solid rgb(224, 224, 224); 
+color: rgb(224, 224, 224) !important;  
+}
+
+
+.nav-link, .navbar-brand{
+    color: rgb(255, 255, 255) !important ; 
+}
+
+.nav-link:hover, .navbar-brand:hover{
+    color: rgb(224, 224, 224) !important ; 
+}
