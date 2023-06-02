@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/staticwebsite1/static/css/main.d1924151.css",
+    "main.js": "/staticwebsite1/static/js/main.6f0667bd.js",
+    "static/media/card-img-2.jpg": "/staticwebsite1/static/media/card-img-2.518ec1730badd4372ea6.jpg",
+    "static/media/card-img-4.jpg": "/staticwebsite1/static/media/card-img-4.46e35deb4faca656a1f8.jpg",
+    "static/media/card-img-6.jpg": "/staticwebsite1/static/media/card-img-6.f453aaee8f6b66874e94.jpg",
+    "static/media/card-img-3.jpg": "/staticwebsite1/static/media/card-img-3.e899621e939c20dbb832.jpg",
+    "static/media/card-img-5.jpg": "/staticwebsite1/static/media/card-img-5.9e8874d16e0a5e56bb4a.jpg",
+    "static/media/card-img-1.jpg": "/staticwebsite1/static/media/card-img-1.f5f285fd399b190bb304.jpg",
+    "static/media/hero-about.png": "/staticwebsite1/static/media/hero-about.e1f2a73e147ccd5f6874.png",
+    "static/media/hero-home.png": "/staticwebsite1/static/media/hero-home.c4096daf623123b766cc.png",
+    "index.html": "/staticwebsite1/index.html",
+    "main.d1924151.css.map": "/staticwebsite1/static/css/main.d1924151.css.map",
+    "main.6f0667bd.js.map": "/staticwebsite1/static/js/main.6f0667bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1924151.css",
+    "static/js/main.6f0667bd.js"
+  ]
+}
